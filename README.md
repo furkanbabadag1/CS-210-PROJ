@@ -52,7 +52,7 @@ This dataset will allow me to analyze the relationship between weather condition
 
 ---
 
-## Aim
+## Project Idea
 
 Through this project, I aim to answer a fun trivia question about my summer work experience: **Did rainy weather really increase the hours I worked?** By investigating this using my personal data, I also hope to explore human behavioral patterns in response to weather changes. This project is both personal and scientific, combining curiosity with data analysis to arrive at a meaningful conclusion.
 

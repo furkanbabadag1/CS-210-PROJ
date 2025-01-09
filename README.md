@@ -2,7 +2,7 @@
 
 ## Motivation
 
-Hello, I’m Furkan Emre Babadag, and this is my CS-210 project. The idea for this project stems from a question that came to my mind last summer. During the summer, I participated in the Work and Travel program in the USA, where I worked as a barista in a coffee shop and also held a retail job as a second position. 
+Hello, I’m Furkan Emre Babadağ, and this is my CS-210 project. The idea for this project stems from a question that came to my mind last summer. During the summer, I participated in the Work and Travel program in the USA, where I worked as a barista in a coffee shop and also held a retail job as a second position. 
 
 My managers often mentioned that rainy weather increased foot traffic in coffee and clothing shops because people tended to avoid the beach and look for indoor activities instead. This led to supposedly me getting more shifts on rainy weeks. By the end of the summer, I was curious to see if this pattern held true—did I actually work more hours during rainy periods? However, I never had the time to investigate this.
 
@@ -32,22 +32,7 @@ For this analysis, I will use the following data sources:
 This dataset will allow me to analyze the relationship between weather conditions (rainy vs. non-rainy days etc.) and my working patterns during the summer.
 
 
-## Plan
 
-### Week 1-2: Data Collection and Exploration
-- Extract data from Paylocity.
-- Gather historical weather data for the relevant period.
-- Explore the datasets to understand their structure and clean them for analysis.
-
-### Week 3-4: Data Analysis and Visualization
-- Analyze the correlation between work hours and weather conditions.
-- Visualize the data using charts and graphs to clearly present findings.
-
-### Last Week: Finalization
-- Compile the results into a final report.
-- Refine and document the codebase.
-
----
 
 ## Project Idea
 

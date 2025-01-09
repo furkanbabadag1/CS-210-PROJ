@@ -43,10 +43,15 @@ Through this project, I aim to answer a fun trivia question about my summer work
 ## Tools
 
 Jupyter Notebook: Used for coding and documentation.
+
 Pandas: Used for data cleaning, filtering, and structuring.
+
 Pdfplumber: Used for PDF data extracting.
+
 Matplotlib and Seaborn: Supplementary for visualizations if needed.
+
 Numpy: Used for mathematical operations.
+
 Scipy: Used for statistical analysis.
 
 

@@ -15,30 +15,27 @@ With this project, I aim to analyze this hypothesis using data from my personal 
 For this analysis, I will use the following data sources:
 
 ### 1. Paychecks
-- **Source:** Data from Paylocity and Workday, work organization apps.
+- **Source:** Data from Paylocity, a work organization app.
 - **Details:** Weekly paycheck records that include:
   - Total earnings.
+  - Total hours worked.
   - Amounts taxed.
-  - Daily breakdown of hours worked for each specific day.
-
-### 2. Bank Transactions
-- **Source:** Records from my personal bank account.
-- **Purpose:** Cross-referencing paycheck amounts and verifying weekly working hours.
-- **Methodology:** Using my known hourly rate, I will calculate the number of hours worked per week by analyzing the paycheck amounts reflected in my bank transactions.
+  
 
 ### 3. Weather Data
 - **Source:** Historical weather reports from local weather channels.
-- **Details:** Data will include a binary classification for each day (e.g., "Rainy" or "Not Rainy") to assess correlations with working hours.
+- **Details:** Data will include a binary classification for each day (e.g., "Rainy" or "Not Rainy") for three distinct categories to assess correlations with working hours.
+- **Categories:** The data will have rain information, temperature and number of cloudy days.
 
 ---
 
-This dataset will allow me to analyze the relationship between weather conditions (rainy vs. non-rainy days) and my working patterns during the summer.
+This dataset will allow me to analyze the relationship between weather conditions (rainy vs. non-rainy days etc.) and my working patterns during the summer.
 
 
 ## Plan
 
 ### Week 1-2: Data Collection and Exploration
-- Extract data from Paylocity and my bank records.
+- Extract data from Paylocity.
 - Gather historical weather data for the relevant period.
 - Explore the datasets to understand their structure and clean them for analysis.
 
@@ -46,7 +43,7 @@ This dataset will allow me to analyze the relationship between weather condition
 - Analyze the correlation between work hours and weather conditions.
 - Visualize the data using charts and graphs to clearly present findings.
 
-### Week 5: Finalization
+### Last Week: Finalization
 - Compile the results into a final report.
 - Refine and document the codebase.
 
@@ -54,7 +51,7 @@ This dataset will allow me to analyze the relationship between weather condition
 
 ## Project Idea
 
-Through this project, I aim to answer a fun trivia question about my summer work experience: **Did rainy weather really increase the hours I worked?** By investigating this using my personal data, I also hope to explore human behavioral patterns in response to weather changes. This project is both personal and scientific, combining curiosity with data analysis to arrive at a meaningful conclusion.
+Through this project, I aim to answer a fun trivia question about my summer work experience: **Did weather conditions really increase the hours I worked? What tpe of correlation is there?** By investigating this using my personal data, I also hope to explore human behavioral patterns in response to weather changes. This project is both personal and scientific, combining curiosity with data analysis to arrive at a meaningful conclusion.
 
 ---
 
@@ -66,9 +63,10 @@ Through this project, I aim to answer a fun trivia question about my summer work
 
 By the end of the project, I expect to:
 1. Identify whether there is a significant correlation between rainy weather and the hours I worked.
-2. Do people go to coffee and clothing shops more if they can't go to beach in summer?
-3. Present findings visually through well-designed charts.
-4. Share the code and methodology for others to replicate or learn from.
+2. Does other type of weather situations affect humans decisions as well?
+3. Do people go to coffee and clothing shops more if they can't go to beach in summer?
+4. Present findings visually through well-designed charts.
+5. Share the code and methodology for others to replicate or learn from.
 
 ---
 
